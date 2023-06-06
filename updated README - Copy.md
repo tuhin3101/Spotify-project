@@ -50,7 +50,7 @@ In EDA, we have examined a number of columns to learn more about the provided da
 
 ## EDA of Input variables with binary features
 
-![Example Image](https://github.com/tuhin3101/Spotify-project/blob/main/ezgif.com-gif-maker.gif) 
+![Example Image](https://drive.google.com/drive/u/0/folders/18lN8w6pmCyXlInbcBSl-Upf8SqCaO215) 
 
 ## EDA of Input variables with multiple features
 
