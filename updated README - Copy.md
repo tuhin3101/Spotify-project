@@ -111,7 +111,7 @@ df['mode'] = encoder.fit_transform(df['mode'])
 
 From sklearn.feature_selection we imported mutual_info_regression in order to get top 20 features
 
-![Example Image](https://github.com/tuhin3101/Spotify-project/blob/main/mi_scores.png) 
+![Example Image](mi_scores.png) 
 
 ![Example Image](https://github.com/tuhin3101/Spotify-project/blob/main/top_20_features.png) 
 
