@@ -50,11 +50,11 @@ In EDA, we have examined a number of columns to learn more about the provided da
 
 ## EDA of Input variables with binary features
 
-![Alt Text](https://drive.google.com/file/d/1k1Aa0HsybyBoli1ufJs2YCVpNFyCuzqZ/view?usp=drive_link)
+![gif1](https://drive.google.com/file/d/1k1Aa0HsybyBoli1ufJs2YCVpNFyCuzqZ/view?usp=drive_link)
 
 ## EDA of Input variables with multiple features
 
-![Example Image](https://github.com/tuhin3101/Spotify-project/blob/main/EDA_mul_features.gif) 
+![gif2](https://github.com/tuhin3101/Spotify-project/blob/main/EDA_mul_features.gif) 
 
 
 ## Observations from EDA
