@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="file:///C:/Users/Tuhin/Desktop/spotify.png">
-</p>
-
-
 # Project - Creating a machine-learning model to predict Song-Skips on Sequential User and Acoustic-Features
 
 ### Abstract
@@ -191,4 +186,9 @@ accuracy_score(y_test, y_pred)
 ## Saving the model by joblib.dump
 
 joblib.dump(dtc,'decisionTree.joblib')
+
+## Web Framework used for the prediction app - Streamlit
+## Cloud hosting sevice used for deployment - Render
+
+## url for the app - https://spotify-tuhin.onrender.com/
 
